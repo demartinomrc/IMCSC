@@ -21,7 +21,7 @@ layout: default
    * [performance senza elaborazione](https://www.copy.com/browse/a:78e91d1;z:copy;b:myfiles/Materiali_Inf_Mus;oid:6750/Thema;oid:6760/Recording%20of%20Sirens%20from%20Ulysses.flv;oid:6789)
    * [documentazione](https://www.copy.com/browse/a:78e91d1;z:copy;b:myfiles/Materiali_Inf_Mus;oid:6750/Thema;oid:6760/QCSM_1992.pdf;oid:6790)
  5. György Ligeti - [*Atmosphère*](https://www.copy.com/browse/a:78e91d1;z:copy;b:myfiles/Materiali_Inf_Mus;oid:6750/Ligeti;oid:6756/Atmospheres-Gyorgy%20Ligeti.mp4;oid:6776) [1961]
-      [*Sinfonia 100 Metromoni*](https://www.copy.com/browse/a:78e91d1;z:copy;b:myfiles/Materiali_Inf_Mus;oid:6750/Ligeti;oid:6756/György%20Ligeti%20-%20Poema%20sinfónico%20para%20100%20Metrónomos.mp4;oid:6796) [1962]
+      [*Sinfonia 100 Metromoni*](https://www.copy.com/browse/a:78e91d1;z:copy;b:myfiles/Materiali_Inf_Mus;oid:6750/Ligeti;oid:6756/György%20Ligeti%20-%20Poema%20sinfónico%20para%20100%20Metrónomos.mp4;oid:6796)[1962]
  6. Max Mathews - [*Daisy Bell*](https://www.youtube.com/watch?v=41U78QP8nBk&list=RD41U78QP8nBk) [1961]
   * [documentazione](https://www.copy.com/browse/a:78e91d1;z:copy;b:myfiles/Materiali_Inf_Mus;oid:6750/Daisy%20Bell;oid:6752/Storia2_voce_computer_v0.6.pdf;oid:6775)
    * [H.A.L sing](https://www.copy.com/browse/a:78e91d1;z:copy;b:myfiles/Materiali_Inf_Mus;oid:6750/Daisy%20Bell;oid:6752/2001%20HAL%20sings%20DAISY%20w%20Keir%20Dullea%20n%20Douglas%20Rain%20Stanley%20Kubrick%20hare%20clip.mp4;oid:6797)
