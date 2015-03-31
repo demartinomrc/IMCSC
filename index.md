@@ -14,10 +14,10 @@ layout: default
    * [partitura](https://copy.com/n417AAu7o9PsSUeQ) 
    * [documentazione](https://copy.com/J3x8kOdhfOhiF9aC)
  2. Karlheinz Stockhausen - [*Gesange der Junglinge*](https://copy.com/WktIvueSE1PNJ84i) [1956]
-   * [documentazione](https://copy.com/yHyXc8DFpMWclOCH)
+   * [documentazione](https://copy.com/Wo1T4JERUs8wXOjU)
  3. Franco Evangelisti - [*Incontri Di Fasce Sonore*](https://copy.com/IjakIOl0CDCVPuCk) [1957]
    * [documentazione](https://copy.com/UTm9rleLxxkgYYgV)
- 4. Luciano Berio - [*Thema, omaggio a Joyce*](https://copy.com/iqCmiv78k9XvcsN6) [1958]
+ 4. Luciano Berio - [*Thema (omaggio a Joyce)*](https://copy.com/iqCmiv78k9XvcsN6) [1958]
    * [performance senza elaborazione](https://copy.com/xAFNmSpysLPpxgRP)
    * [documentazione](https://copy.com/XsfJC6gLKMZT6UIB)
  5. György Ligeti - [*Atmosphère*](https://copy.com/yyTQBE6ymdICwXBg) [1961]
@@ -41,7 +41,7 @@ layout: default
   
  
  
-* [*Slide della prima lezione*](https://www.copy.com/browse/a:78e91d1;z:copy;b:myfiles/Materiali_Inf_Mus;oid:6750/Slide_Corso;oid:6758/Slide_Inf_Mus.pdf;oid:6859)
+* [*Slide della prima lezione*](https://copy.com/vz9H6F7FHvdgs4Xg)
  
 ----
 
