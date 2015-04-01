@@ -21,7 +21,7 @@ layout: default
    * [performance senza elaborazione](https://copy.com/xAFNmSpysLPpxgRP)
    * [documentazione](https://copy.com/XsfJC6gLKMZT6UIB)
  5. György Ligeti - [*Atmosphère*](https://copy.com/yyTQBE6ymdICwXBg) [1961]
-     * [*Sinfonia 100 Metromoni*](https://copy.com/NhQLnylwOI3H1RXk) [1962]
+     * [*Sinfonia 100 Metronomi*](https://copy.com/NhQLnylwOI3H1RXk) [1962]
  6. Max Mathews - [*Daisy Bell*](https://copy.com/zMquR1d3dyJguZtK) [1961]
   * [documentazione](https://copy.com/BTIgi44SmudlFR0C)
    * [H.A.L sing](https://copy.com/9HhPeJJEcdMoiOHl)
