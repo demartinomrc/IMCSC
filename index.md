@@ -37,6 +37,7 @@ layout: default
  10. Michelangelo Lupone - [*Gran Cassa*](https://copy.com/aBsAUW9rS3IUhmPt) [2006]
    * [partitura/documentazione](https://copy.com/oOczYrC49Luggy2B)
  11. Giorgio Nottoli - [*Traiettoria Tesa*](https://www.youtube.com/watch?v=bqjLSPv-KXs&spfreload=10) [2012]
+   * [partitura](https://copy.com/Bp9r9gR6C7o8Du70)
    
   
  
