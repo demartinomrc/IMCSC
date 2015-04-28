@@ -40,6 +40,9 @@ layout: default
   2. Karlheinz Stockhausen - [*Video*](https://www.youtube.com/watch?v=x-bp0e8YmtM)
  
  
+ 
+---- 
+ 
 * [*Slide della seconda lezione*](https://copy.com/048uGM8WP4XsLjIj)
  
 ----
