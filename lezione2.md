@@ -43,7 +43,7 @@ layout: default
  
 ---- 
  
-* [*Slide della seconda lezione*](https://copy.com/048uGM8WP4XsLjIj)
+* [*Slide seconda lezione*](https://copy.com/048uGM8WP4XsLjIj)
  
 ----
 
