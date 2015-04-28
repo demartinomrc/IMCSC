@@ -12,25 +12,25 @@ layout: default
 ### Materiali:
 
 
- 1. [*Timbro/inviluppo/formanti*] - [*Doc*](http://fisicaondemusica.unimore.it/Percezione_del_timbro.html)
+ 1. [*Timbro/Inviluppo/Formanti*](http://fisicaondemusica.unimore.it/Percezione_del_timbro.html)
   
- 2. Armonici naturali - [*Doc*](http://it.wikipedia.org/wiki/Armonici_naturali) 
+ 2. [*Armonici naturali*](http://it.wikipedia.org/wiki/Armonici_naturali) 
    
- 3. Decibel - [*Doc*](http://fisicaondemusica.unimore.it/Domande_misura.html) 
+ 3. [*Decibel*](http://fisicaondemusica.unimore.it/Domande_misura.html) 
  
- 4. Illusioni Acustiche - [*Doc*](http://fisicaondemusica.unimore.it/Effetti_e_illusioni_acustiche.html)
+ 4. [*Illusioni Acustiche*](http://fisicaondemusica.unimore.it/Effetti_e_illusioni_acustiche.html)
  
  ### Ascolti:
  
  1. John Cage - [*Sonatas and Interludes*](https://www.youtube.com/watch?v=xObkMpQqUyU)
   
- 2. Arnold Schoenberg - [*Klang Farben Melodie*](https://www.youtube.com/watch?v=OceD--RLlxY) [1912]
+ 2. Arnold Schoenberg - [*Klangfarben Melodie*](https://www.youtube.com/watch?v=OceD--RLlxY) [1912]
  
  3. Anton Webern - [*Ricercar*](https://www.youtube.com/watch?v=DIHDY0WEktw) [1935]
  
  4. György Ligeti - [*Le Scale Du Diable*](https://www.youtube.com/watch?v=4x92olBQu94) [1993]
      
- 5. Steve Reich - [*Drumming*] (https://www.youtube.com/watch?v=YH9n6pwpK0A) [1970/71]
+ 5. Steve Reich - [*Drumming*](https://www.youtube.com/watch?v=YH9n6pwpK0A) [1970/71]
    
   ### Interviste:
   
