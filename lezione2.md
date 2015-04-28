@@ -52,7 +52,7 @@ layout: default
 Descrivere a livello acustico, fenomenologico e percettivo tutti e cinque i frammenti delle composizioni proposte:
 
 * [*Studio II*](https://www.youtube.com/watch?v=6Plz8vDzrho&list=PL6lPATqxXSDJASLjyx-MNGu3o9LzqwO6x)
-* [*Turenas*](https://www.youtube.com/watch?v=S4KrQntifnQ&index=3&list=PL6lPATqxXSDJASLjyx-MNGu3o9LzqwO6x)
+* [*Turenas*](https://www.youtube.com/watch?v=nLFf4kMMGJQ&list=PL6lPATqxXSDJASLjyx-MNGu3o9LzqwO6x&index=2)
 * [*Luigi Nono - Il Canto Sospeso*](https://www.youtube.com/watch?v=S4KrQntifnQ&list=PL6lPATqxXSDJASLjyx-MNGu3o9LzqwO6x&index=3)
 * [*Luciano Berio - Sequenza V*](https://www.youtube.com/watch?v=BOtYjSKHSEc&list=PL6lPATqxXSDJASLjyx-MNGu3o9LzqwO6x&index=4)
 * [*Pierre Boulez - Anthem 2*](https://www.youtube.com/watch?v=C7dXAKIOtWo&list=PL6lPATqxXSDJASLjyx-MNGu3o9LzqwO6x&index=5)
