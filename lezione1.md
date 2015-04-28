@@ -5,7 +5,6 @@ layout: default
 ----
 ----
 
-[Lezione1](http://francescoziello.github.io/IMCSC/lezione1.html)
 ## 01. Introduzione al repertorio elettroacustico
 
 ### Ascolti:
