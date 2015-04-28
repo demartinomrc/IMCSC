@@ -1,6 +1,9 @@
+---
 layout: default
 ---
+
 #### INFORMATICA MUSICALE CONSERVATORIO S. CECILIA
+
 ----
 ----
 
@@ -9,7 +12,7 @@ layout: default
 ### Materiali:
 
 
- 1. Timbro/inviluppo/formanti - [*Doc*](http://fisicaondemusica.unimore.it/Percezione_del_timbro.html)
+ 1. [*Timbro/inviluppo/formanti*] - [*Doc*](http://fisicaondemusica.unimore.it/Percezione_del_timbro.html)
   
  2. Armonici naturali - [*Doc*](http://it.wikipedia.org/wiki/Armonici_naturali) 
    
