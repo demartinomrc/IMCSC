@@ -19,7 +19,7 @@ layout: default
   
  2. [*Campionamento*](http://it.wikipedia.org/wiki/Campionamento_(teoria_dei_segnali)) 
    
- 3. [*Quantizazione*](http://it.wikipedia.org/wiki/Quantizzazione_(elettronica)) 
+ 3. [*Quantizzazione*](http://it.wikipedia.org/wiki/Quantizzazione_(elettronica)) 
  
  
  
@@ -32,7 +32,7 @@ layout: default
    
   ### Interviste:
   
-  1. Alvin Lucier - [*Video*](https://www.youtube.com/watch?v=XAUp9q38ofo)
+  1. Alvin Lucier, Biennale di Venezia 2012 - [*Video*](https://www.youtube.com/watch?v=XAUp9q38ofo)
   
  
 
@@ -43,10 +43,10 @@ layout: default
 
 Riassumere i seguenti argomenti:
 
-1) La catena elettroacustica
-2) Sampling
-3) Quantize
-4) Descrivere i concetti fondamentali dell'intervista fatta ad Alvin Lucier
+#1. La catena elettroacustica
+#2. Sampling
+#3. Quantize
+#4. Descrivere i concetti fondamentali dell'intervista fatta ad Alvin Lucier
 
 
 ### Bibliografia
