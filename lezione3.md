@@ -49,8 +49,8 @@ Riassumere i seguenti argomenti:
 
 
 1. La catena elettroacustica
-2. Sampling
-3. Quantize
+2. Campionamento 
+3. Quantizzazione
 4. Descrivere i concetti fondamentali dell'intervista fatta ad Alvin Lucier
 
 
