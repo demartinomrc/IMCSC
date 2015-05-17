@@ -12,7 +12,9 @@ layout: default
 
 ## 03. La catena elettroacustica
 
+
 ### Materiali:
+
 
 
  1. [*La catena elettroacustica*](https://www.youtube.com/watch?v=zC5KFnSUPNo)
@@ -21,7 +23,7 @@ layout: default
    
  3. [*Quantizzazione*](http://it.wikipedia.org/wiki/Quantizzazione_(elettronica)) 
  
- 
+----
  
  ### Ascolti:
  
@@ -29,6 +31,7 @@ layout: default
   
  - Alvin Lucier - [*Nothing is real (Strawberry fields)*](https://www.youtube.com/watch?v=adUkYPkPhRg) [1990]
  
+----
    
   ### Interviste:
   
@@ -41,7 +44,9 @@ layout: default
 
 ### Esercizio:
 
+
 Riassumere i seguenti argomenti:
+
 
 1. La catena elettroacustica
 2. Sampling
