@@ -32,7 +32,7 @@ layout: default
    
   ### Interviste:
   
-  1. Alvin Lucier, Biennale di Venezia 2012 - [*Video*](https://www.youtube.com/watch?v=XAUp9q38ofo)
+  - Alvin Lucier, Biennale di Venezia 2012 - [*Video*](https://www.youtube.com/watch?v=XAUp9q38ofo)
   
  
 
@@ -43,10 +43,10 @@ layout: default
 
 Riassumere i seguenti argomenti:
 
-#1. La catena elettroacustica
-#2. Sampling
-#3. Quantize
-#4. Descrivere i concetti fondamentali dell'intervista fatta ad Alvin Lucier
+1. La catena elettroacustica
+2. Sampling
+3. Quantize
+4. Descrivere i concetti fondamentali dell'intervista fatta ad Alvin Lucier
 
 
 ### Bibliografia
