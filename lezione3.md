@@ -25,9 +25,9 @@ layout: default
  
  ### Ascolti:
  
- 1. Alvin Lucier - [*I'm sitting in a room*](https://www.youtube.com/watch?v=TSR2LSuzP_M) [1969]
+ - Alvin Lucier - [*I'm sitting in a room*](https://www.youtube.com/watch?v=TSR2LSuzP_M) [1969]
   
- 2. Alvin Lucier - [*Nothing is real (Strawberry fields)*](https://www.youtube.com/watch?v=adUkYPkPhRg) [1990]
+ - Alvin Lucier - [*Nothing is real (Strawberry fields)*](https://www.youtube.com/watch?v=adUkYPkPhRg) [1990]
  
    
   ### Interviste:
