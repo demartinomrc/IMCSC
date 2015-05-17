@@ -9,3 +9,5 @@ layout: default
 
 
 ## [Lezione2](http://francescoziello.github.io/IMCSC/lezione2.html)
+
+## [Lezione3](http://francescoziello.github.io/IMCSC/lezione3.html)
