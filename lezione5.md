@@ -21,7 +21,7 @@ layout: default
   
  2. [*Il movimento Fluxus*](https://en.wikipedia.org/wiki/Fluxus) 
    
- 3. [*L'opera secondo Stockhausen/ Sonntag Aus Licht*](https://en.wikipedia.org/wiki/Sonntag_aus_Licht) 
+ 3. [*L'opera secondo Stockhausen: Sonntag Aus Licht*](https://en.wikipedia.org/wiki/Sonntag_aus_Licht) 
  
 
  
@@ -33,7 +33,7 @@ layout: default
   
  - Shiomi - [*Disappearing music for face*](https://www.youtube.com/watch?v=5g5WuiY9BhA) [1966]
  
- - Karlheinze Stockhausen - [*Sonntag Aus Licht*](https://www.youtube.com/watch?v=JotSiYl2dzs)
+ - Karlheinze Stockhausen - [*Sonntag Aus Licht*](https://www.youtube.com/watch?v=JotSiYl2dzs) [2007]
  
  - Zimoun - [*Volume *](https://www.youtube.com/watch?v=WWgJejAiGFg) [2011]
  
