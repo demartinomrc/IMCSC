@@ -31,15 +31,15 @@ layout: default
  
  ### Ascolti ed esempi:
  
- - Filtri come percezione nello spazio (https://vimeo.com/37396411) 
+ - Filtri come percezione nello spazio - [*Les Triplette de Belleville*] (https://vimeo.com/37396411) 
   
  - Karlheinze Stockhausen(RM) - [*Kontakte*](https://www.youtube.com/watch?v=lxRcr-eWe-E) [1958]
  
- - Curtis Roads [*Eleventh Vortex*](https://www.youtube.com/watch?v=XgBjD6_SbOU)
+ - Curtis Roads [*Eleventh Vortex*](https://www.youtube.com/watch?v=XgBjD6_SbOU) [2001]
  
- - Akemi Takeya [*Modell 5/Video Granular Synthesis*]  (https://www.youtube.com/watch?v=ATWljMbvVTg)
+ - Akemi Takeya [*Modell 5/Video Granular Synthesis*]  (https://www.youtube.com/watch?v=ATWljMbvVTg) [2011]
  
- - Gyorgy Ligeti [*String Quartet n°2*](https://www.youtube.com/watch?v=HfhCAYGdSg8)
+ - Gyorgy Ligeti [*String Quartet n°2*](https://www.youtube.com/watch?v=HfhCAYGdSg8)[1968]
  
  
 ----
