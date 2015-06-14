@@ -33,7 +33,7 @@ layout: default
  
  - Filtri come percezione nello spazio  - [*Les Triplette de Belleville*] (https://vimeo.com/37396411)  [2003]
   
- - Karlheinze Stockhausen(RM) - [*Kontakte*](https://www.youtube.com/watch?v=lxRcr-eWe-E) [1958]
+ - Karlheinze Stockhausen (RM example) - [*Kontakte*](https://www.youtube.com/watch?v=lxRcr-eWe-E) [1958]
  
  - Curtis Roads - [*Eleventh Vortex*](https://www.youtube.com/watch?v=XgBjD6_SbOU) [2001]
  
