@@ -21,7 +21,7 @@ layout: default
   
  2. [*Il movimento Fluxus*](https://en.wikipedia.org/wiki/Fluxus) 
    
- 3. [*L'opera secondo Stockhausen: Sonntag Aus Licht*](https://en.wikipedia.org/wiki/Sonntag_aus_Licht) 
+ 3. [*L'opera secondo Stockhausen: "Sonntag Aus Licht"*](https://en.wikipedia.org/wiki/Sonntag_aus_Licht) 
  
 
  
