@@ -23,7 +23,7 @@ layout: default
    
  3. [*Sintesi FM*](https://it.wikipedia.org/wiki/Sintesi_FM) 
  
- 4. [*Sintesi AM/RM*] (http://www.acustica.org/ex-mnt/download/am.pdf)
+ 4. [*Sintesi AM/RM*] (https://copy.com/SeapRkC92T9mO9w8)
  
  5. [*Sintesi Granulare*] (https://it.wikipedia.org/wiki/Sintesi_granulare)
  
