@@ -23,21 +23,21 @@ layout: default
    
  3. [*Sintesi FM*](https://it.wikipedia.org/wiki/Sintesi_FM) 
  
- 4. [*Sintesi AM/RM*] (https://copy.com/SeapRkC92T9mO9w8)
+ 4. [*Sintesi AM/RM*](https://copy.com/SeapRkC92T9mO9w8)
  
- 5. [*Sintesi Granulare*] (https://it.wikipedia.org/wiki/Sintesi_granulare)
+ 5. [*Sintesi Granulare*](https://it.wikipedia.org/wiki/Sintesi_granulare)
  
 ----
  
  ### Ascolti ed esempi:
  
- - Filtri come percezione nello spazio  - [*Les Triplette de Belleville*] (https://vimeo.com/37396411)  [2003]
+ - Filtri come percezione nello spazio  - [*Les Triplette de Belleville*](https://vimeo.com/37396411)  [2003]
   
  - Karlheinze Stockhausen (RM example) - [*Kontakte*](https://www.youtube.com/watch?v=lxRcr-eWe-E) [1958]
  
  - Curtis Roads - [*Eleventh Vortex*](https://www.youtube.com/watch?v=XgBjD6_SbOU) [2001]
  
- - Akemi Takeya - [*Modell 5/Video Granular Synthesis*]  (https://www.youtube.com/watch?v=ATWljMbvVTg) [2011]
+ - Akemi Takeya - [*Modell 5/Video Granular Synthesis*](https://www.youtube.com/watch?v=ATWljMbvVTg) [2011]
  
  - Gyorgy Ligeti - [*String Quartet n°2*](https://www.youtube.com/watch?v=HfhCAYGdSg8)[1968]
  
