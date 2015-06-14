@@ -36,7 +36,7 @@ layout: default
  
  - Karlheinze Stockhausen - [*Sonntag Aus Licht*](https://www.youtube.com/watch?v=JotSiYl2dzs) [2007]
  
- - Zimoun - [*Volume *](https://www.youtube.com/watch?v=WWgJejAiGFg) [2011]
+ - Zimoun - [*Volume*](https://www.youtube.com/watch?v=WWgJejAiGFg) [2011]
  
  - Zimoun - [*36 Ventilators, 4.7m3 Packing Chips*](https://www.youtube.com/watch?v=N-1uZrVugHc) [2014]
  
