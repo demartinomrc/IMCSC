@@ -39,7 +39,7 @@ layout: default
  
  - Akemi Takeya - [*Modell 5/Video Granular Synthesis*](https://www.youtube.com/watch?v=ATWljMbvVTg) [2011]
  
- - Gyorgy Ligeti - [*String Quartet n°2*](https://www.youtube.com/watch?v=HfhCAYGdSg8)[1968]
+ - Gyorgy Ligeti - [*String Quartet n°2*](https://www.youtube.com/watch?v=HfhCAYGdSg8)  [1968]
  
  
 ----
