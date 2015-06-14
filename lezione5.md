@@ -33,6 +33,8 @@ layout: default
   
  - Shiomi - [*Disappearing music for face*](https://www.youtube.com/watch?v=5g5WuiY9BhA) [1966]
  
+ - Karlheinze Stockhausen - [*Sonntag Aus Licht*](https://www.youtube.com/watch?v=JotSiYl2dzs)
+ 
  - Zimoun - [*Volume *](https://www.youtube.com/watch?v=WWgJejAiGFg) [2011]
  
  - Zimoun - [*36 Ventilators, 4.7m3 Packing Chips*](https://www.youtube.com/watch?v=N-1uZrVugHc) [2014]
@@ -43,8 +45,8 @@ layout: default
 
 ### Esercizio 5:
 
-1.Spiegazione del termine "Installazione" in ambito artistico. 
-2.Analisi libera e ipotesi di significato di una delle installazioni/video affrontati durante la lezione.
+1. Spiegazione del termine "Installazione" in ambito artistico. 
+2. Analisi libera e ipotesi di significato di una delle installazioni/video affrontati durante la lezione.
 
 
 
