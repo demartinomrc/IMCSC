@@ -12,4 +12,4 @@ layout: default
 
 ## [Lezione3](http://francescoziello.github.io/IMCSC/lezione3.html)
 
-## [Lezione4] (http://francescoziello.github.io/IMCSC/lezione4.html)
+## [Lezione4] (IMCSC/lezione4.md)
