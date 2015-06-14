@@ -24,6 +24,7 @@ layout: default
  3. [*L'Opera secondo Stockhausen: "Sonntag Aus Licht"*](https://en.wikipedia.org/wiki/Sonntag_aus_Licht) 
  
 
+
  
 ----
  
@@ -41,12 +42,16 @@ layout: default
  
 
  
+ 
+ 
 ----
 
 ### Esercizio 5:
 
 1. Spiegazione del termine "Installazione" in ambito artistico. 
 2. Analisi libera e ipotesi di significato di una delle installazioni/video affrontati durante la lezione.
+
+
 
 
 
