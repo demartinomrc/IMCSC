@@ -20,8 +20,9 @@ layout: default
    * [documentazione](https://copy.com/J3x8kOdhfOhiF9aC)
  2. Karlheinz Stockhausen - [*Gesange der Junglinge*](https://copy.com/WktIvueSE1PNJ84i) [1956]
    * [documentazione](https://copy.com/Wo1T4JERUs8wXOjU)
- 3. Franco Evangelisti - [*Incontri Di Fasce Sonore*](https://copy.com/IjakIOl0CDCVPuCk) [1957]
-   * [documentazione](https://copy.com/UTm9rleLxxkgYYgV)
+ 3. Bruno Maderna - [*Musica su due dimensioni*](https://www.youtube.com/watch?v=DrgBBjNbeQM) [1958]
+   * [documentazione](https://copy.com/7M4j3uCuoLkXhuAY)
+   * [partitura](https://copy.com/IkQEPXrUXNloSb4Y)
  4. Luciano Berio - [*Thema (omaggio a Joyce)*](https://copy.com/iqCmiv78k9XvcsN6) [1958]
    * [performance senza elaborazione](https://copy.com/xAFNmSpysLPpxgRP)
    * [documentazione](https://copy.com/XsfJC6gLKMZT6UIB)
@@ -41,19 +42,17 @@ layout: default
    * [documentazione](https://copy.com/7Cvvs7ol3slfvVuZ)
  10. Michelangelo Lupone - [*Gran Cassa*](https://copy.com/aBsAUW9rS3IUhmPt) [2006]
    * [partitura/documentazione](https://copy.com/oOczYrC49Luggy2B)
- 11. Giorgio Nottoli - [*Traiettoria Tesa*](https://www.youtube.com/watch?v=bqjLSPv-KXs&spfreload=10) [2012]
-   * [partitura](https://copy.com/Bp9r9gR6C7o8Du70)
-   
+ 
   
  
  
-* [*Slide della prima lezione*](https://copy.com/FMf0CoGbI6FGW3Jq)
+* [*Slide della prima lezione*](https://copy.com/tU4OGChu6VJLxXqg)
  
 ----
 
 ### Esercizio:
 
-Scegliere un brano dal repertorio illustrato (tolte le composizioni di Ligeti) e compilare una breve analisi comprendente un quadro storico, una descrizione del brano e delle impressioni personali.
+Scegliere un brano dal repertorio illustrato (tolte le composizioni di Ligeti e Max Mathews) e compilare una breve analisi comprendente un quadro storico, una descrizione del brano e delle impressioni personali.
 
 
 ### Bibliografia
