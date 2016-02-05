@@ -46,7 +46,7 @@ layout: default
   
  
  
-* [*Slide della prima lezione*](https://copy.com/tU4OGChu6VJLxXqg)
+* [*Slide della prima lezione*](https://copy.com/CC2z2hjd1LZmPSNM)
  
 ----
 
