@@ -5,7 +5,7 @@ layout: default
 ----
 ----
 
-## [Lezione I](http://demartinomrc.github.io/IMCSC/lezione I.html)
+## [Lezione I](http://demartinomrc.github.io/IMCSC/lezioneI.html)
 
 
 ## [Lezione 2](http://francescoziello.github.io/IMCSC/lezione2.html)
