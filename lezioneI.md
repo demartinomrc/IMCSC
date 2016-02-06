@@ -27,6 +27,7 @@ layout: default
    * [performance senza elaborazione](https://copy.com/xAFNmSpysLPpxgRP)
    * [documentazione](https://copy.com/XsfJC6gLKMZT6UIB)
  5. György Ligeti - [*Atmosphère*](https://copy.com/yyTQBE6ymdICwXBg) [1961]
+   * 
  6. Luigi Nono - [*Post Praeludium Per Donau*](https://copy.com/jPAOh9t1ddmBC4N8) [1987]
    * [partitura](https://copy.com/RoIGAryFXMi90Po9)
    * [trascrizione a colori](https://copy.com/WTuGFzQ2WN4pqGGK)
