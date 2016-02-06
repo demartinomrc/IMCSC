@@ -54,7 +54,6 @@ Scegliere un brano dal repertorio illustrato (tolta la composizione di Ligeti) e
 ### Bibliografia
 
  - [Armando Gentilucci - Introduzione alla Musica Elettronica](https://drive.google.com/file/d/0BzCXlXdo2lzASVZsRHRnRTJqX28/view?usp=sharing)
- - [Fred K. Prieberg](https://copy.com/mU6LRdCdxUlrVAIZ)
  
 ----
 
