@@ -54,7 +54,7 @@ Scegliere un brano dal repertorio illustrato (tolta la composizione di Ligeti) e
 
  - [Armando Gentilucci - Introduzione alla Musica Elettronica](https://drive.google.com/file/d/0BzCXlXdo2lzASVZsRHRnRTJqX28/view?usp=sharing)
  
- - [La Musica Elettronica - Henri Pousseur] (https://drive.google.com/file/d/0BzCXlXdo2lzAWTBLNFVhNkl4clE/view?usp=sharing)
+ - [La Musica Elettronica - Henri Pousseur](https://drive.google.com/file/d/0BzCXlXdo2lzAWTBLNFVhNkl4clE/view?usp=sharing)
 
  
 ----
