@@ -41,7 +41,7 @@ layout: default
   
  
  
-* [*Appunti sparsi*](https://copy.com/CC2z2hjd1LZmPSNM)
+* [*Appunti sparsi*](https://drive.google.com/file/d/0BzCXlXdo2lzAMFh4cE5pSTd6bjg/view?usp=sharing)
  
 ----
 
