@@ -17,7 +17,7 @@ layout: default
  
  1. John Cage - [*Sonatas and Interludes*](https://www.youtube.com/watch?v=xObkMpQqUyU) [1946–1948]
   
- 2. Luigi Nono - [*A Pierre.Dell'azzurro silenzio,inquietum*](https://www.youtube.com/watch?v=OceD--RLlxY) [1985]
+ 2. Luigi Nono - [*A Pierre.Dell'azzurro silenzio,inquietum*](https://www.youtube.com/watch?v=Hd1U2bt5Q8U) [1985]
  
  2. Edgar Varese - [*Deserts*](https://www.youtube.com/watch?v=Q__g0tgC2wE) [1950-54]
  
