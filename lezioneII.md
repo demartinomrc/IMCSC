@@ -48,6 +48,9 @@ layout: default
  
  3. [*Armonici naturali*](http://it.wikipedia.org/wiki/Armonici_naturali)
 
+ 4. [*Decibel*] (http://fisicaondemusica.unimore.it/Domande_misura.html) 
+
+
 ----
 
 ### Esercizio:
