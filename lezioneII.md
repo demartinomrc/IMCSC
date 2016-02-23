@@ -31,7 +31,7 @@ layout: default
  
  9. Krzysztof Penderecki - [*threnody for the victims of hiroshima*] (https://www.youtube.com/watch?v=HilGthRhwP8) [1961]
 
- 10. Karlheinz Stockhausen - [*Kontakte*] (https://www.youtube.com/watch?v=lxRcr-eWe-E)[1958–60]
+ 10. Karlheinz Stockhausen - [*Kontakte*] (https://www.youtube.com/watch?v=lxRcr-eWe-E) [1958–60]
 
 
 ---- 
