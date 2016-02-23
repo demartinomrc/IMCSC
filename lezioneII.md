@@ -15,7 +15,7 @@ layout: default
  
  ### Ascolti:
  
- 1. John Cage - [*Sonatas and Interludes*](https://www.youtube.com/watch?v=xObkMpQqUyU)
+ 1. John Cage - [*Sonatas and Interludes*](https://www.youtube.com/watch?v=xObkMpQqUyU) [1946–1948]
   
  2. Luigi Nono - [*A Pierre.Dell'azzurro silenzio,inquietum*](https://www.youtube.com/watch?v=OceD--RLlxY) [1985]
  
@@ -44,11 +44,11 @@ layout: default
 
  1. [*Timbro/Inviluppo/Formanti*](http://fisicaondemusica.unimore.it/Percezione_del_timbro.html)
 
- 2. [*ADSR*] (
-  
- 2. [*Armonici naturali*](http://it.wikipedia.org/wiki/Armonici_naturali) 
-   
- 3. [*Decibel*](http://fisicaondemusica.unimore.it/Domande_misura.html) 
+ 2. [*ADSR*](http://fisicaondemusica.unimore.it/Percezione_del_timbro.html)
+ 
+ 3. [*Armonici naturali*](http://it.wikipedia.org/wiki/Armonici_naturali) 
+ 
+ 4. [*Decibel*](http://fisicaondemusica.unimore.it/Domande_misura.html) 
 ----
 
 ### Esercizio:
