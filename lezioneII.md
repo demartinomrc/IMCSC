@@ -46,8 +46,8 @@ layout: default
 
  2. [*ADSR*](http://fisicaondemusica.unimore.it/Percezione_del_timbro.html)
  
- 3. [*Armonici naturali*](http://it.wikipedia.org/wiki/Armonici_naturali) 
- 
+ 3. [*Armonici naturali*](http://it.wikipedia.org/wiki/Armonici_naturali)
+
  4. [*Decibel*](http://fisicaondemusica.unimore.it/Domande_misura.html) 
 ----
 
