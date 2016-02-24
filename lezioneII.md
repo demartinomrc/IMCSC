@@ -10,7 +10,7 @@ layout: default
 
 ----
 
-## 02. Sul suono e le sue proprietà
+## 02. Suono: caratteristiche e percezione
 
  
  ### Ascolti:
@@ -27,11 +27,11 @@ layout: default
  
  7. Gerard Grisey - [*Accords perdus*](https://www.youtube.com/watch?v=yRGUcI0S5Kk) [1989]
  
- 8. Luciano Berio - [*Sequenza V*] (https://www.youtube.com/watch?v=rFgrOflwKPg) [1966]
+ 8. Luciano Berio - [*Sequenza V*](https://www.youtube.com/watch?v=rFgrOflwKPg) [1966]
  
- 9. Krzysztof Penderecki - [*threnody for the victims of hiroshima*] (https://www.youtube.com/watch?v=HilGthRhwP8) [1961]
+ 9. Krzysztof Penderecki - [*threnody for the victims of hiroshima*](https://www.youtube.com/watch?v=HilGthRhwP8) [1961]
 
- 10. Karlheinz Stockhausen - [*Kontakte*] (https://www.youtube.com/watch?v=lxRcr-eWe-E) [1958–60]
+ 10. Karlheinz Stockhausen - [*Kontakte*](https://www.youtube.com/watch?v=lxRcr-eWe-E) [1958–60]
 
 
 ---- 
@@ -46,7 +46,7 @@ layout: default
  
  3. [*Armonici naturali*](http://it.wikipedia.org/wiki/Armonici_naturali)
 
- 4. [*Decibel*] (http://fisicaondemusica.unimore.it/Domande_misura.html) 
+ 4. [*Decibel*](http://fisicaondemusica.unimore.it/Domande_misura.html) 
 
 
 ----
