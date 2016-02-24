@@ -43,8 +43,6 @@ layout: default
 
 
  1. [*Timbro/Inviluppo/Formanti*](http://fisicaondemusica.unimore.it/Percezione_del_timbro.html)
-
- 2. [*ADSR*](http://fisicaondemusica.unimore.it/Percezione_del_timbro.html)
  
  3. [*Armonici naturali*](http://it.wikipedia.org/wiki/Armonici_naturali)
 
@@ -55,13 +53,13 @@ layout: default
 
 ### Esercizio:
 
-Descrivere a livello acustico, fenomenologico e percettivo tutti e cinque i frammenti delle composizioni proposte:
+Analisi di uno dei brani d'ascolto, descritti a livello acustico, fenomenologico e percettivo, e analisi di uno dei  frammenti delle composizioni proposte:
 
-* [*Karlheinz Stockhausen - Kontakte*](https://www.youtube.com/watch?v=6Plz8vDzrho&list=PL6lPATqxXSDJASLjyx-MNGu3o9LzqwO6x)
+
 * [*John Chowning - Turenas*](https://www.youtube.com/watch?v=nLFf4kMMGJQ&list=PL6lPATqxXSDJASLjyx-MNGu3o9LzqwO6x&index=2)
 * [*Luigi Nono - A Pierre*](https://www.youtube.com/watch?v=S4KrQntifnQ&list=PL6lPATqxXSDJASLjyx-MNGu3o9LzqwO6x&index=3)
 * [*Luciano Berio - Sequenza V*](https://www.youtube.com/watch?v=BOtYjSKHSEc&list=PL6lPATqxXSDJASLjyx-MNGu3o9LzqwO6x&index=4)
-* [*Pierre Boulez - Anthem 2*](https://www.youtube.com/watch?v=C7dXAKIOtWo&list=PL6lPATqxXSDJASLjyx-MNGu3o9LzqwO6x&index=5)
+
 
 ### Bibliografia
 
