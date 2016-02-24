@@ -53,11 +53,8 @@ layout: default
 
 ### Esercizio:
 
-Analisi di uno dei brani d'ascolto, descritti a livello acustico, fenomenologico e percettivo, e analisi di uno dei  frammenti delle composizioni proposte:
+Analisi di uno dei brani d'ascolto, descritti a livello acustico, fenomenologico e percettivo e analisi del frammento tratto da Sequenza V:
 
-
-* [*John Chowning - Turenas*](https://www.youtube.com/watch?v=nLFf4kMMGJQ&list=PL6lPATqxXSDJASLjyx-MNGu3o9LzqwO6x&index=2)
-* [*Luigi Nono - A Pierre*](https://www.youtube.com/watch?v=S4KrQntifnQ&list=PL6lPATqxXSDJASLjyx-MNGu3o9LzqwO6x&index=3)
 * [*Luciano Berio - Sequenza V*](https://www.youtube.com/watch?v=BOtYjSKHSEc&list=PL6lPATqxXSDJASLjyx-MNGu3o9LzqwO6x&index=4)
 
 
