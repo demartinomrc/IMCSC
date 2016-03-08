@@ -21,8 +21,12 @@ layout: default
   
  2. [*Slide Campionamento e quantizzazione*](http://it.wikipedia.org/wiki/Campionamento_(teoria_dei_segnali)) 
    
- 3. [*il microfono (slide I Piero Schiavoni)*](https://drive.google.com/file/d/0B--_h5RB_vmydERfMzE1TDZ5a3M/view?usp=sharing)  
- 4. [*tipologia di microfoni (slide II Piero Schiavoni)*](https://drive.google.com/file/d/0B--_h5RB_vmyMEZ0b2FfMURIRlU/view?usp=sharing)
+ 3. [*Il microfono (slide I Piero Schiavoni)*](https://drive.google.com/file/d/0B--_h5RB_vmydERfMzE1TDZ5a3M/view?usp=sharing)   
+ 4. [*Tipologia di microfoni (slide II Piero Schiavoni)*](https://drive.google.com/file/d/0B--_h5RB_vmyMEZ0b2FfMURIRlU/view?usp=sharing)
+
+ 5. Altri materiali sul digitale: [*Quant. I*](https://it.wikipedia.org/wiki/Quantizzazione_(elettronica)) [*Quant. II*](http://home.deib.polimi.it/bernasco/corso_fss/matdid/dispense09.pdf)
+
+
 ----
  
  ### Ascolti:
