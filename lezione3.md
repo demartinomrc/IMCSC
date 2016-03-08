@@ -19,10 +19,10 @@ layout: default
 
  1. [*La catena elettroacustica*](https://www.youtube.com/watch?v=zC5KFnSUPNo)
   
- 2. [*Campionamento*](http://it.wikipedia.org/wiki/Campionamento_(teoria_dei_segnali)) 
+ 2. [*Slide Campionamento e quantizzazione*](http://it.wikipedia.org/wiki/Campionamento_(teoria_dei_segnali)) 
    
- 3. [*Quantizzazione*](http://it.wikipedia.org/wiki/Quantizzazione_(elettronica)) 
- 
+ 3. [*il microfono (slide I Piero Schiavoni)*](https://drive.google.com/file/d/0B--_h5RB_vmydERfMzE1TDZ5a3M/view?usp=sharing)  
+ 4. [*tipologia di microfoni (slide II Piero Schiavoni)*](https://drive.google.com/file/d/0B--_h5RB_vmyMEZ0b2FfMURIRlU/view?usp=sharing)
 ----
  
  ### Ascolti:
@@ -30,6 +30,9 @@ layout: default
  - Alvin Lucier - [*I'm sitting in a room*](https://www.youtube.com/watch?v=TSR2LSuzP_M) [1969]
   
  - Alvin Lucier - [*Nothing is real (Strawberry fields)*](https://www.youtube.com/watch?v=adUkYPkPhRg) [1990]
+
+ - György Ligeti - [*L'escalier du diable*] (https://www.youtube.com/watch?v=4x92olBQu94) [2001]
+
  
 ----
    
@@ -51,7 +54,7 @@ Riassumere i seguenti argomenti:
 1. La catena elettroacustica
 2. Campionamento 
 3. Quantizzazione
-4. Descrivere i concetti fondamentali dell'intervista fatta ad Alvin Lucier
+4. Illusioni acustiche: terzo suono di tartini, effetto doppler, Shepard tone
 
 
 ### Bibliografia
