@@ -15,17 +15,17 @@ layout: default
 
 ### Materiali:
 
+ 1. [*Appunti prima lezione*](https://drive.google.com/file/d/0BzCXlXdo2lzAYXRiLXhsX3Btd1k/view?usp=sharing)
 
-
- 1. [*Sintesi Additiva*](https://it.wikipedia.org/wiki/Sintetizzatore#Sintesi_additiva)
+ 2. [*Sintesi Additiva*](https://it.wikipedia.org/wiki/Sintetizzatore#Sintesi_additiva)
   
- 2. [*Sintesi Sottrattiva*](https://it.wikipedia.org/wiki/Sintetizzatore#Sintesi_sottrattiva) 
+ 3. [*Sintesi Sottrattiva*](https://it.wikipedia.org/wiki/Sintetizzatore#Sintesi_sottrattiva) 
    
- 3. [*Sintesi FM*](https://it.wikipedia.org/wiki/Sintesi_FM) 
+ 4. [*Sintesi FM*](https://it.wikipedia.org/wiki/Sintesi_FM) 
  
- 4. [*Sintesi AM/RM*](https://copy.com/SeapRkC92T9mO9w8)
+ 5. [*Sintesi AM/RM*](https://copy.com/SeapRkC92T9mO9w8)
  
- 5. [*Sintesi Granulare*](https://it.wikipedia.org/wiki/Sintesi_granulare)
+ 6. [*Sintesi Granulare*](https://it.wikipedia.org/wiki/Sintesi_granulare)
  
 ----
  
@@ -33,13 +33,13 @@ layout: default
  
  - Filtri come percezione nello spazio  - [*Les Triplette de Belleville*](https://vimeo.com/37396411)  [2003]
   
- - Karlheinze Stockhausen (RM example) - [*Kontakte*](https://www.youtube.com/watch?v=lxRcr-eWe-E) [1958]
+ - Karlheinze Stockhausen (RM example) - [*Mantra*](https://www.youtube.com/watch?v=831CmEITXdI) [1970]
  
  - Curtis Roads - [*Eleventh Vortex*](https://www.youtube.com/watch?v=XgBjD6_SbOU) [2001]
  
- - Akemi Takeya - [*Modell 5/Video Granular Synthesis*](https://www.youtube.com/watch?v=ATWljMbvVTg) [2011]
+ - Iannis Xenakis - [*Methastasis*](https://www.youtube.com/watch?v=SZazYFchLRI) [1953-1954]
  
- - Gyorgy Ligeti - [*String Quartet n°2*](https://www.youtube.com/watch?v=HfhCAYGdSg8) [1968]
+ - Karlheinze Stockhausen - (AM example) - [*Telemusik*](https://www.youtube.com/watch?v=N-vb97ukRjY) [1966]
  
  
 ----
