@@ -70,7 +70,6 @@ Riassumere 3 dei seguenti argomenti a scelta:
 ### Bibliografia
 
  - [Armando Gentilucci - Introduzione alla Musica Elettronica](https://copy.com/gmatZ8qkaw1WROAG)
- - [Fred K. Prieberg](https://copy.com/mU6LRdCdxUlrVAIZ)
  
 ----
 
