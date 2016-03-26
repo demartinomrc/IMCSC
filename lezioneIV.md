@@ -17,7 +17,7 @@ layout: default
 
  1. [*Appunti prima lezione*](https://drive.google.com/file/d/0BzCXlXdo2lzAYXRiLXhsX3Btd1k/view?usp=sharing)
 
- 2. [*Sintesi Additiva*](https://it.wikipedia.org/wiki/Sintetizzatore#Sintesi_additiva)
+ 2. [*Sintesi Additiva*](http://www.maurograziani.org/text_pages/tecniche_sintesi/additiva/additiva.html)
   
  3. [*Sintesi Sottrattiva*](https://it.wikipedia.org/wiki/Sintetizzatore#Sintesi_sottrattiva) 
    
