@@ -187,10 +187,15 @@ Note dell'Autore [Link](http://www.luiginono.it/it/luigi-nono/opere/post-prae-lu
 
 <iframe width="300" height="225" src="https://www.youtube.com/embed/OuM_J0qqThs?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+**Trombone**
+L. Berio - *Sequenza V*
+
+- Partitura [pdf](https://drive.google.com/file/d/0BzCXlXdo2lzATk1RZGdYY3RYNjQ/view?usp=sharing)
+Note dell'autore[Link](http://www.lucianoberio.org/node/1465?893703771=1)
+
+<iframe width="300" height="225" src="https://www.youtube.com/watch?v=rFgrOflwKPg" frameborder="0" allowfullscreen></iframe>
 
 ---
-
-
 
 **Violino**: P. Boulez - *Anthem II*;   
 - Partitura [Pdf](https://www.dropbox.com/s/nfh4kd8fizntkyj/Boulez_AnthemII.pdf?dl=0)
