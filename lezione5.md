@@ -10,51 +10,74 @@ layout: default
 
 ----
 
-## 05. Arti visive
+## LEZIONE V
+
+## EVOLUZIONE DELLA COMPOSIZIONE ELETTROACUSTICA
 
 
-### Materiali:
 
+ ## 1. Il Teatro Musicale
 
+- **Luigi Nono** *Intolleranza 1960*   
+[Documentazione](http://www.teatrolafenice.it/media/libretti/114_6319intero_indd.pdf)   
 
- 1. [*Installazione*](https://it.wikipedia.org/wiki/Installazione_(arte))
+<iframe width="300" height="225" src="https://www.youtube.com/embed/65QPTF5npwQ" frameborder="0" allowfullscreen></iframe>
+
   
- 2. [*Il movimento Fluxus*](https://en.wikipedia.org/wiki/Fluxus) 
-   
- 3. [*L'Opera secondo Stockhausen: "Sonntag Aus Licht"*](https://en.wikipedia.org/wiki/Sonntag_aus_Licht) 
- 
+-**La fabbrica illuminata**
+[Documentazione](http://www.luiginono.it/it/luigi-nono/opere/la-fabbrica-illuminata)
+
+<iframe width="300" height="225" src=https://www.youtube.com/watch?v=yzcAzCEtAbs frameborder="0" allowfullscreen></iframe>
+
+-**Al gran sole carico d'amore**
+[Documentazione](http://www.luiginono.it/it/luigi-nono/opere/al-gran-sole-carico-d-amore)
+
+<iframe width="300" height="225" src=https://www.youtube.com/watch?v=YJibhZP_mAo frameborder="0" allowfullscreen></iframe>
 
 
+- **Luciano Berio**  *Laborintus II*   
+[Documentazione](http://www.lucianoberio.org/node/1509?356130551=1)   
+<iframe width="300" height="169" src="https://www.youtube.com/embed/MLHjkrsh_Lw" frameborder="0" allowfullscreen></iframe>
+
+
+- **Giorgio Battistelli** *Experimentum Mundi *
+[Documentazione](http://www.giorgiobattistelli.it/opere/teatro-musicale/experimentum-mundi/)   
+
+- **Romeo Castellucci, Socìetas Raffaello Sanzio** *Tragedia Endogonidia*   
+[Documentazione](http://www.digicult.it/it/digimag/issue-003/italiano-la-tragedia-della-societas-raffaello-sanzio/)   
+
+<iframe width="300" height="225" src="https://www.youtube.com/embed/-08pVAhCcOo" frameborder="0" allowfullscreen></iframe>
+
+## 2. Installazioni artistiche
+
+##### Adattive:
+
+- **Michelangelo Lupone** *Oasi*;  MACRO, ROMA -
+<iframe width="300" height="169" src="https://www.youtube.com/embed/4EmUoXvGxSE" frameborder="0" allowfullscreen></iframe>
+
+- **Michelangelo Lupone** *Forme Immateriali*; - GNAM, ROMA -  	
+<iframe width="300" height="169" src="https://www.youtube.com/embed/wHoaJyRtKSQ" frameborder="0" allowfullscreen></iframe>
+
+##### Sculture sonore
+
+- **Zimoun** *Sculpting Sound*; Ringling Museum of Art - Sarasota, Florida, USA     
+<iframe width="300" height="169" src="https://www.youtube.com/embed/WWgJejAiGFg" frameborder="0" allowfullscreen></iframe>
+
+
+- **Philippe Rahm, Sebastian Rivas** *Sublimated Music*; - MAXXI, ROMA -    
+<iframe width="300" height="225" src="https://www.youtube.com/embed/v2w_ZIHuvAw" frameborder="0" allowfullscreen></iframe>
  
+## 4. ESERCIZIO - QUINTA TESINA
+
+Ogni studente sceglie un brano corrispondente al proprio strumento  dalla lista di composizioni proposte (*ad es. i pianisti scelgono di studiare uno tra i pezzi proposti per pianoforte, i cantanti un pezzo per voce e così via*). L'esercizio comprende lo studio del brano (o parte di esso, anche solo l'incipit) ed una relazione - analisi sull'esperienza di studio
+
+
+
 ----
- 
- ### Installazioni e video:
- 
- - Yoko Ono - [*Cut Piece*](https://www.youtube.com/watch?v=8Sc47KfJjcI)  [1965]
-  
- - Shiomi - [*Disappearing music for face*](https://www.youtube.com/watch?v=5g5WuiY9BhA) [1966]
- 
- - Karlheinze Stockhausen - [*Sonntag Aus Licht*](https://www.youtube.com/watch?v=JotSiYl2dzs) [2007]
- 
- - Zimoun - [*Volume*](https://www.youtube.com/watch?v=WWgJejAiGFg) [2011]
- 
- - Zimoun - [*36 Ventilators, 4.7m3 Packing Chips*](https://www.youtube.com/watch?v=N-1uZrVugHc) [2014]
- 
 
- 
- 
- 
-----
+Per lo schema completo della tesina e i brani proposti per lo studio, clicca sul link seguente:   
 
-### Esercizio 5:
-
-1. Spiegazione del termine "Installazione" in ambito artistico. 
-2. Analisi libera e ipotesi di significato di una delle installazioni/video affrontati durante la lezione.
-
-
-
-
-
+#### [QUINTA TESINA - DETTAGLI]({{ site.url }}{{ site.baseurl }}/quinta_tesina.html)
 
 
 
@@ -62,7 +85,6 @@ layout: default
 ### Bibliografia
 
  - [Armando Gentilucci - Introduzione alla Musica Elettronica](https://copy.com/gmatZ8qkaw1WROAG)
- - [Fred K. Prieberg](https://copy.com/mU6LRdCdxUlrVAIZ)
  
 ----
 
