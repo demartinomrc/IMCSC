@@ -60,8 +60,12 @@ layout: default
 - **Michelangelo Lupone** *Oasi*;  MACRO, ROMA -
 <iframe width="300" height="169" src="https://www.youtube.com/embed/4EmUoXvGxSE" frameborder="0" allowfullscreen></iframe>
 
+
+
 - **Michelangelo Lupone** *Forme Immateriali*; - GNAM, ROMA -  	
 <iframe width="300" height="169" src="https://www.youtube.com/embed/wHoaJyRtKSQ" frameborder="0" allowfullscreen></iframe>
+
+
 
 ##### Sculture sonore
 
@@ -69,9 +73,11 @@ layout: default
 <iframe width="300" height="169" src="https://www.youtube.com/embed/WWgJejAiGFg" frameborder="0" allowfullscreen></iframe>
 
 
+
 - **Philippe Rahm, Sebastian Rivas** *Sublimated Music*; - MAXXI, ROMA -    
 <iframe width="300" height="225" src="https://www.youtube.com/embed/v2w_ZIHuvAw" frameborder="0" allowfullscreen></iframe>
 
+ 
  
 ## 4. ESERCIZIO - QUINTA TESINA
 
