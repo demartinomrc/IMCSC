@@ -29,19 +29,24 @@ layout: default
 
 <iframe width="300" height="225" src=https://www.youtube.com/watch?v=yzcAzCEtAbs frameborder="0" allowfullscreen></iframe>
 
+  
 -**Al gran sole carico d'amore**
 [Documentazione](http://www.luiginono.it/it/luigi-nono/opere/al-gran-sole-carico-d-amore)
 
 <iframe width="300" height="225" src=https://www.youtube.com/watch?v=YJibhZP_mAo frameborder="0" allowfullscreen></iframe>
 
-
+  
+  
 - **Luciano Berio**  *Laborintus II*   
 [Documentazione](http://www.lucianoberio.org/node/1509?356130551=1)   
 <iframe width="300" height="169" src="https://www.youtube.com/embed/MLHjkrsh_Lw" frameborder="0" allowfullscreen></iframe>
 
 
+
 - **Giorgio Battistelli** *Experimentum Mundi *
 [Documentazione](http://www.giorgiobattistelli.it/opere/teatro-musicale/experimentum-mundi/)   
+
+
 
 - **Romeo Castellucci, Socìetas Raffaello Sanzio** *Tragedia Endogonidia*   
 [Documentazione](http://www.digicult.it/it/digimag/issue-003/italiano-la-tragedia-della-societas-raffaello-sanzio/)   
@@ -66,6 +71,7 @@ layout: default
 
 - **Philippe Rahm, Sebastian Rivas** *Sublimated Music*; - MAXXI, ROMA -    
 <iframe width="300" height="225" src="https://www.youtube.com/embed/v2w_ZIHuvAw" frameborder="0" allowfullscreen></iframe>
+
  
 ## 4. ESERCIZIO - QUINTA TESINA
 
@@ -77,7 +83,7 @@ Ogni studente sceglie un brano corrispondente al proprio strumento  dalla lista 
 
 Per lo schema completo della tesina e i brani proposti per lo studio, clicca sul link seguente:   
 
-#### [QUINTA TESINA - DETTAGLI] (http://demartinomrc.github.io/IMCSC/quinta_tesina.html)
+#### [QUINTA TESINA - DETTAGLI](http://demartinomrc.github.io/IMCSC/quinta_tesina.html)
 
 
 
