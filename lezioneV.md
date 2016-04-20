@@ -77,7 +77,7 @@ Ogni studente sceglie un brano corrispondente al proprio strumento  dalla lista 
 
 Per lo schema completo della tesina e i brani proposti per lo studio, clicca sul link seguente:   
 
-#### [QUINTA TESINA - DETTAGLI]({{ site.url }}{{ site.baseurl }}/quinta_tesina.html)
+#### [QUINTA TESINA - DETTAGLI] (http://demartinomrc.github.io/IMCSC/quinta_tesina.html)
 
 
 
