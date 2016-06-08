@@ -15,6 +15,8 @@ layout: default
 
 ## [Lezione V](http://demartinomrc.github.io/IMCSC/lezioneV.html)
 
+## [Lezione VI](http://demartinomrc.github.io/IMCSC/lezioneVI.html)
+
 
 
 
